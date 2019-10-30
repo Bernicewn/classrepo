@@ -1,0 +1,2 @@
+# classrepo
+class repo
