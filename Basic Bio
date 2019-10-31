@@ -1,0 +1,27 @@
+<html>
+<head>
+<title>Basic Bio Page</title>
+</head>
+<body>
+<header>
+<h1> My Bio Page</h1>
+</header>
+<div>
+  <section>
+  <h2>Bernice Narvaez</h2>
+  <img src="Lion.jpg"/>
+  <img src="Ne-Yo_Performs.jpg"/>
+  <h2>I love to learn</h2>
+  </section>
+  <section>
+  <h2>1010 University Drive, Arlington, VA 22204</h2>
+  <ul>
+      <li>Email: Bernice.narvaez@gmail.com</li>
+      <li>Phone: 240-353-9488</li>
+      <li><a href="linked.com"> LinkedIn</a></li>
+  </ul>
+
+</section>
+</div>
+</body>
+</html>
